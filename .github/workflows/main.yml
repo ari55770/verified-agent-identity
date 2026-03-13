@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'ari55770'
         required: true
-        default: 'uangdroid'
+        default: 'ari55770'
       agent_description:
         description: 'ari55770'
         required: true
